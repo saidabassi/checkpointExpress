@@ -1,0 +1,13 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: rgb(209, 245, 245);
+}
+
+a {
+  color: #0a010189;
+  }
+
+.navbar-nav{
+  list-style: none;
+}
